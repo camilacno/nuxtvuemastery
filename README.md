@@ -1,3 +1,6 @@
+Deploy: 
+https://sheltered-river-89983.herokuapp.com/
+
 # real-world-nuxt
 
 > My tremendous Nuxt.js project
