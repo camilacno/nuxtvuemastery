@@ -18,6 +18,7 @@
 export default {
   name: 'EventCard',
   props: {
+    // eslint-disable-next-line
     event: Object
   },
   computed: {
